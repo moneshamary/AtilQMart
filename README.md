@@ -7,3 +7,5 @@ AtliQ Mart is a retail giant
  
 Inorder to make informed decisions, the below insights are created to understand which promotions did well and which did not. 
 
+
+
